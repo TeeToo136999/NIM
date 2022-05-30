@@ -149,6 +149,8 @@ namespace NIM
             numlbl.Visible = true;
             sirkylbl.Visible = true;
             Startgame.Visible = false;
+            gamewonlbl.Visible = false;
+            gamelostlbl.Visible = false;
         }
     }
 }
