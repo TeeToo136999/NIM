@@ -1,0 +1,17 @@
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\bin\Debug\netcoreapp3.1\NIM.exe
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\bin\Debug\netcoreapp3.1\NIM.deps.json
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\bin\Debug\netcoreapp3.1\NIM.runtimeconfig.json
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\bin\Debug\netcoreapp3.1\NIM.runtimeconfig.dev.json
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\bin\Debug\netcoreapp3.1\NIM.dll
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\bin\Debug\netcoreapp3.1\NIM.pdb
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.csproj.AssemblyReference.cache
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.Form1.resources
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.csproj.GenerateResource.cache
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.AssemblyInfoInputs.cache
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.AssemblyInfo.cs
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.csproj.CoreCompileInputs.cache
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.dll
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.pdb
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.genruntimeconfig.cache
+C:\Users\tomas.kozacek\source\repos\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.Properties.Resources.resources
